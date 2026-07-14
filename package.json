@@ -1,0 +1,19 @@
+{
+  "name": "aspri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:web": "npx playwright test tests/whatsapp.test.js --headed",
+    "test:mobile": "node tests/android-test.js",
+    "test:demo": "npx playwright test tests/skills-demo.test.js --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1"
+  }
+}
