@@ -1,4 +1,4 @@
-# Aspri AI Assistant Testing: Zero to Hero Guide
+# Aspri AI Assistant Testing
 
 This guide will help you set up and run automated tests for the Aspri AI assistant on WhatsApp from scratch.
 
